@@ -27,4 +27,5 @@ for i in range(1,len(pixel_values)):
     else:
         out.write(sort[i][0]+'\n')
         out.write(sort[i][1]+'\n')
+out.write('drawflush display1')
 out.close()
