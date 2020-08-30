@@ -1,4 +1,4 @@
-# Mindustry-v6.0-Image-to-Screen-Conventer
+# Mindustry-v6.0-Image-to-Code-Conventer
 Ok, Hi I create a simple image convertor for Logic Screens and Processors from mindustry v6.0.
 
 HOW TO USE?
