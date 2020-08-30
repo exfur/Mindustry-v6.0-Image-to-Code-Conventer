@@ -1,6 +1,9 @@
 from PIL import Image
 out = open('output.txt','a')
-img = Image.open('venv/Source/a7xyi-89d96.png','r')
+# IMPORT FILE PATH HERE
+path = 'venv/Source/a7xyi-89d96.png'  #<-----
+# IMPORT FILE PATH HERE
+img = Image.open(path,'r') 
 pixel_values = list(img.getdata())
 ##print(pixel_values)
 to_sort=[]
