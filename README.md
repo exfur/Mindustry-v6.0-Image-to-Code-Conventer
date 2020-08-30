@@ -7,7 +7,7 @@ First of all you should convert you following image to 80x80 px or split it to t
 
 Second step is to import you rescaled file path to my script and launch it.
 
-Third step enjoy your Processors instruction list to draw image.
+Third step enjoy your Processors instruction list for image.
 
 Remember that one processor can process 1500 comands only. So you should split output code for processors.
 And don't forget to use DrawFlush function in Processor
